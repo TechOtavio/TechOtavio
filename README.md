@@ -1,6 +1,7 @@
 ## 👋 Bem vindo ao meu perfil GitHub 
-Olá pessoal, me chamo Otávio! Estou no 3° Ano na EEEP Marwin cursando Técnico em Informática.
+Olá pessoal, me chamo Otávio! Sou formado em Técnico em Informática.
 Amo tecnologia e suas ramficações, busco oportunidades para demostrar habilidades aprendida nesse período e que possa acrescentar ao meu perfil profissional.
+Hoje me aventuro no ramo do Desenvolvimento Web, Aqui você pode observar alguns dos meus projetos, Espero que gostem!
     
 ## 📘 Atualmente Estou aprendendo
 

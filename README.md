@@ -1,5 +1,5 @@
 ## 👋 Bem vindo ao meu perfil GitHub 
-Olá pessoal, me chamo Otávio! Sou formado em Técnico em Informática.
+Olá pessoal, me chamo Otávio! Atualmente, estou fazendo o curso de Ciência da Computação.
 Amo tecnologia e suas ramficações, busco oportunidades para demostrar habilidades aprendida nesse período e que possa acrescentar ao meu perfil profissional.
 Hoje me aventuro no ramo do Desenvolvimento Web, Aqui você pode observar alguns dos meus projetos, Espero que gostem!
     

@@ -29,8 +29,6 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 🔗 **LinkedIn:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/otávio-levi-89a93030a/)
 
-💼 **Portfólio (em breve):**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Em construção... 🚧]
 
 ---
 

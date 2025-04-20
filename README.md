@@ -38,6 +38,16 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 
 ## 📊 GitHub Status
 
-<a href="https://github.com/TechOtavio">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOtavio&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+## 📊 Status do GitHub
+
+<div align="center">
+  <a href="https://github.com/TechOtavio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechOtavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOtavio&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  </a>
+</div>
+
+![Sequência de contribuições](https://streak-stats.demolab.com/?user=TechOtavio&theme=dracula&locale=pt_BR&date_format=j%20M%5B,%20Y%5D)
+
+![Gráfico de atividades](https://github-readme-activity-graph.cyclic.app/graph?username=TechOtavio&theme=dracula&locale=pt-br)
+

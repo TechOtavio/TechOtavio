@@ -20,9 +20,17 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 
 ## 🌐 Contato
 
-📧 Email: otavio.holanda05@gmail.com <br>
-📷 Instagram: @levi.holanda07 <br>
-💼 LinkedIn: linkedin.com/in/otávio-levi-89a93030a/ <br>
+📩 **Email:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[otavio.holanda05@gmail.com](mailto:otavio.holanda05@gmail.com)
+
+📸 **Instagram:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@levi.holanda07](https://www.instagram.com/levi.holanda07)
+
+🔗 **LinkedIn:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/otávio-levi-89a93030a/)
+
+💼 **Portfólio (em breve):**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Em construção... 🚧]
 
 ---
 

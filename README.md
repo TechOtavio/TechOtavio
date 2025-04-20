@@ -38,7 +38,7 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 
 ## 📊 GitHub Status
 
-<div align="center">
+<div>
   <a href="https://github.com/TechOtavio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOtavio&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
   </a>

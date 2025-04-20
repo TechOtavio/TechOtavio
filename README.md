@@ -15,6 +15,15 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Banco de Dados](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
+---
+
+## 📊 GitHub Status
+
+<div>
+  <a href="https://github.com/TechOtavio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOtavio&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  </a>
+</div>
 
 ---
 
@@ -30,14 +39,5 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/otávio-levi-89a93030a/)
 
 
----
-
-## 📊 GitHub Status
-
-<div>
-  <a href="https://github.com/TechOtavio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOtavio&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
-  </a>
-</div>
 
 

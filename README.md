@@ -38,11 +38,7 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 🔗 **LinkedIn:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[linkedin.com/in/seu-usuario](https://www.linkedin.com/in/otávio-levi-89a93030a/)
 
----
 
-## 🐍 Snake GitHub Activity
-
-![Snake animation](https://github.com/TechOtavio/TechOtavio/blob/output/github-contribution-grid-snake.svg)
 
 
 

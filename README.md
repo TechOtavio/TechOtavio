@@ -27,6 +27,9 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
   <a href="mailto:otavio.holanda05@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/ot%C3%A1vio-levi-89a93030a/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
 
 ---

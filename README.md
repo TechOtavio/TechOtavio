@@ -32,7 +32,7 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 ## 🌐 Contato
 Você pode me conta em qualquer uma dessas redes ou pelo email, vamos compartilhar ideias? <br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-levi-89a93030a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Levi.holanda07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio.holanda05@gmail.com)
 

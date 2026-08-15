@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu perfil GitHub 
 
-Olá! Me chamo **Otávio Levi** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.  
+Olá! Me chamo **Otávio Levi** e atualmente estou cursando **Engenharia de Software**.  
 Sou apaixonado por tecnologia e suas ramificações, e estou sempre buscando oportunidades para aplicar na prática o que venho aprendendo. 
 Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns dos meus projetos. Espero que goste!
 
@@ -19,15 +19,6 @@ Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns d
 
 ---
 
-## 📊 GitHub Status
-
-<div>
-  <a href="https://github.com/TechOtavio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechOtavio&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
-  </a>
-</div>
-
----
 
 ## 🌐 Contato
 Você pode me conta em qualquer uma dessas redes ou pelo email, vamos compartilhar ideias? <br>

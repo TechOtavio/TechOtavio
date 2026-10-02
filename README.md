@@ -1,8 +1,7 @@
 ## 👋 Bem-vindo ao meu perfil GitHub 
 
-Olá! Me chamo **Otávio Levi** e atualmente estou cursando **Engenharia de Software**.  
-Sou apaixonado por tecnologia e suas ramificações, e estou sempre buscando oportunidades para aplicar na prática o que venho aprendendo. 
-Atualmente, me aventuro no desenvolvimento web e aqui você encontrará alguns dos meus projetos. Espero que goste!
+Olá! Me chamo **Otávio Levi** e atualmente estou cursando **Engenharia de Software** na **Universidade Federal do Ceará (UFC)**.  
+Atualmente faço parte de um projeto chamado **LearningLab** onde tendo a oportunidade de atuar no setor de Desenvolvimento, Extensão, Curso e Pesquisa. No setor de Desenvolvimento atuo como desenvolvedor front-end em um projeto chamado **GestLab** onde temos o objetivo de centralizar modulos de RH, Kanban, Editais e muito mais para a comunidade acadêmicos da UFC. Adicionado a isso, também participei de curso em formação de Full-stack com foco em Javascript, onde produzi um protótipo de e-commerce. Você pode ver alguns dos meus projetos aqui em baixo do README, muito obrigado!
 
 
 ## 🚀 Tecnologias com Experiência
